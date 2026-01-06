@@ -1,10 +1,10 @@
-♟️ Omega Chess vs. Smart AI
+##♟️ Omega Chess vs. Smart AI
 
 A high-performance, browser-based implementation of Omega Chess, featuring a custom-built AI engine using the Minimax algorithm with Alpha-Beta pruning.
 Omega Chess is a professional chess variant played on a 12x12 board, introducing two powerful new pieces: the Champion and the Wizard.
 
 
-🚀 Features
+#🚀 Features
  * Advanced AI Engine:
    * Minimax Algorithm: Simulates future moves to make optimal decisions.
    * Alpha-Beta Pruning: Optimizes search speed by skipping irrelevant branches.
