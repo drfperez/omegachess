@@ -7,7 +7,7 @@ Omega Chess is a professional chess variant played on a 12x12 board, introducing
 
 ## 🎮 Live Demo
 
-[Play Now](https://drfperez.github.io/omegachess/)
+[Play Now](https://drfperez.github.io/omega/)
 
 ## 🚀 Features
 
