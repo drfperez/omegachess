@@ -4,6 +4,11 @@ A high-performance, browser-based implementation of Omega Chess, featuring a cus
 
 Omega Chess is a professional chess variant played on a 12x12 board, introducing two powerful new pieces: the Champion and the Wizard.
 
+
+## 🎮 Live Demo
+
+[Play Now](https://drfperez.github.io/omegachess/)
+
 ## 🚀 Features
 
 * **Advanced AI Engine:**
