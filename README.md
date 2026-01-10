@@ -1,13 +1,13 @@
-## Omega Chess Game
+# Omega Chess Game
 
 
 A modern implementation of Omega Chess with 4 different AI difficulty levels, featuring unique pieces and a 10x10 board with corner wizard squares.
 
-# 🎮 Live Demo
+## 🎮 Live Demo
 
 Play Omega Chess Online (https://drfperez.github.io/omega/)
 
-# 📋 Table of Contents
+## 📋 Table of Contents
 
 · Features
 · Game Rules
@@ -19,7 +19,7 @@ Play Omega Chess Online (https://drfperez.github.io/omega/)
 · Contributing
 · License
 
-# ✨ Features
+## ✨ Features
 
 · Complete Omega Chess Implementation: Full rules with all special pieces
 · 4 AI Difficulty Levels: From beginner-friendly to expert challenge
@@ -28,7 +28,7 @@ Play Omega Chess Online (https://drfperez.github.io/omega/)
 · Interactive Tutorial: Built-in help system
 · Cross-platform: Works on desktop and mobile browsers
 
-# 🎲 Game Rules
+## 🎲 Game Rules
 
 Board Setup
 
@@ -63,7 +63,7 @@ Standard Chess Rules
 · Castling is available (though not explicitly implemented in current version)
 · Check and checkmate detection (planned for future versions)
 
-# 🤖 AI Levels
+## 🤖 AI Levels
 
 The game features 4 distinct AI difficulty levels:
 
@@ -98,7 +98,7 @@ The game features 4 distinct AI difficulty levels:
 · Provides strong challenge for experienced players
 · Note: May think for a moment before moving
 
-# 🎯 How to Play
+## 🎯 How to Play
 
 Starting a Game
 
@@ -123,7 +123,7 @@ Game Interface
   · Help: Shows game rules and instructions
   · Debug: Toggles debug information (for developers)
 
-# 💻 Installation
+## 💻 Installation
 
 Option 1: Local Play
 
@@ -143,7 +143,7 @@ Option 3: GitHub Pages
 2. Enable GitHub Pages in repository settings
 3. Access at https://your-username.github.io/repository-name
 
-# 🔧 Technical Details
+## 🔧 Technical Details
 
 Technologies Used
 
@@ -170,11 +170,11 @@ omega-chess/
 ├── README.md           # This documentation
 ```
 
-# 📄 License
+## 📄 License
 
 This project is licensed under the MIT License
 
-# 🙏 Acknowledgments
+## 🙏 Acknowledgments
 
 · Omega Chess: Created by Daniel MacDonald (1992)
 · AI Algorithms: Based on classical chess AI techniques
