@@ -192,25 +192,10 @@ Performance Optimizations
 · Quiescence search
 · Multithreading for AI calculations
 
-🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. Report Bugs: Open an issue with detailed description
-2. Suggest Features: Propose new features or improvements
-3. Code Contributions: Fork and submit pull requests
-4. Documentation: Improve documentation or translations
-
-Development Setup
-
-1. Clone the repository
-2. Open index.html in a browser
-3. Use browser developer tools for debugging
-4. Make changes and test locally
 
 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License
 
 🙏 Acknowledgments
 
