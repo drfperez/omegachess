@@ -168,7 +168,6 @@ File Structure
 omega-chess/
 ├── index.html          # Main game file (contains all code)
 ├── README.md           # This documentation
-└── (Optional assets)   # Screenshots or icons
 ```
 
 🚀 Future Improvements
