@@ -1,6 +1,5 @@
-Omega Chess Game
+## Omega Chess Game
 
-https://img.shields.io/badge/Omega-Chess-blueviolet https://img.shields.io/badge/AI-4%20Levels-green https://img.shields.io/badge/License-MIT-yellow
 
 A modern implementation of Omega Chess with 4 different AI difficulty levels, featuring unique pieces and a 10x10 board with corner wizard squares.
 
