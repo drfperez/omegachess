@@ -170,29 +170,6 @@ omega-chess/
 ├── README.md           # This documentation
 ```
 
-🚀 Future Improvements
-
-Planned Features
-
-· Check and checkmate detection
-· Castling implementation
-· Pawn promotion choice (not just Queen)
-· Move history and undo functionality
-· Two-player (human vs human) mode
-· Timer/clock for timed games
-· Save/load game state
-· Sound effects and animations
-· Opening book for AI
-· Endgame tablebase support
-
-Performance Optimizations
-
-· Transposition tables for AI
-· Move ordering improvements
-· Quiescence search
-· Multithreading for AI calculations
-
-
 📄 License
 
 This project is licensed under the MIT License
