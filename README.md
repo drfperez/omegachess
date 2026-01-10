@@ -5,7 +5,7 @@ A modern implementation of Omega Chess with 4 different AI difficulty levels, fe
 
 🎮 Live Demo
 
-Play Omega Chess Online (Replace with your actual URL)
+Play Omega Chess Online (https://drfperez.github.io/omega/)
 
 📋 Table of Contents
 
